@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! I'm Azarath Ameen C. A., and I'm a Full Stack Developer.
+Hi 👋! I'm Azarath Ameen C A, and I'm a Full Stack Developer.
 
 
 ## 🌐 Socials:
